@@ -4,7 +4,7 @@
     include('resources/UberGallery.php');
 
     // Initialize the UberGallery object
-    $gallery = new UberGallery();
+    $gallery = new Theyyam gallery();
 
     // Initialize the gallery array
     $galleryArray = $gallery->readImageDirectory('gallery-images');
